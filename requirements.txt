@@ -1,0 +1,18 @@
+# Data handling
+pandas
+
+# Plotting
+matplotlib
+seaborn
+
+# Streamlit app
+streamlit
+
+# WordCloud generation
+wordcloud
+
+# Emoji detection
+emoji
+
+# URL extraction
+urlextract
